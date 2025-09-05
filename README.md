@@ -8,7 +8,7 @@ The purpose of this project is to provide a clear and engaging overview of weath
 
 ## 🔗 *Data Source*
 
-Weather API: weatherapi.com
+Weather API: https://www.weatherapi.com/
 
 Data refreshed automatically to capture live updates.
 
